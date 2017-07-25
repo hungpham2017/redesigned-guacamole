@@ -2,7 +2,7 @@
 [![codecov](https://codecov.io/gh/hungpham2017/redesigned-guacamole/branch/master/graph/badge.svg)](https://codecov.io/gh/hungpham2017/redesigned-guacamole)
 
 <div align="left">
-  <img src="https://github.com/hungpham2017/redesigned-guacamole/logo/download.png" height="80px"/>
+  <img src="https://github.com/hungpham2017/redesigned-guacamole/tree/master/logo/download.png" height="80px"/>
 </div>
 
 # redesigned-guacamole
